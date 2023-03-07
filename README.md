@@ -1,2 +1,2 @@
 # About-Me
-Heelo, I am Amit Kumar.
+Hello, I am Amit Kumar.
